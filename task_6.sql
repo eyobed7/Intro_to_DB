@@ -7,7 +7,7 @@ INSERT INTO customer (customer_id, customer_name, email, address)
 VALUES ( customer_id = 3
     customer_name = 'Obed Ehoneah',
     email = 'eobed@sandtech.com',
-    address = '125 Happiness  Ave.')
+    address ="125 Happiness  Ave. ")
 INSERT INTO customer (customer_id, customer_name, email, address) 
 VALUES ( customer_id = 4
     customer_name = 'Nehemial Kamolu',
